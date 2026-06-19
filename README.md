@@ -1,4 +1,4 @@
-# LITA_HR_DATA
+# HR_DATA
 This is the documentation of Power BI calsses with HR Data
 
 ## Project Title
